@@ -1,0 +1,25 @@
+{
+  "name": "lambda-logging-sns-dymamo",
+  "version": "1.0.0",
+  "description": "Codigo de la funcion lambda en NodeJS para leer el contenido de una cola SNS y escribir esta informacion en DynamoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronaltrianat/lambda-logging-sns-dynamo.git"
+  },
+  "keywords": [
+    "lambda",
+    "dynamo",
+    "sns",
+    "amazon"
+  ],
+  "author": "Ronal Triana <ronaltriana.t@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronaltrianat/lambda-logging-sns-dynamo/issues"
+  },
+  "homepage": "https://github.com/ronaltrianat/lambda-logging-sns-dynamo#readme"
+}
